@@ -1,6 +1,6 @@
 # UAS-PMWEB-KELAS-A
 
-Kelas			  : TIK2032A
+Kelas			: TIK2032A
 Kelompok		: A
 Anggota		  : 
       1. Dzulfi Alfian T. Gani (20021106109)
