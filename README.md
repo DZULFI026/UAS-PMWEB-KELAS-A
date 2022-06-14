@@ -8,10 +8,10 @@ Anggota		  :
   	  3. Andi Rahmi Saputri (20021106102)
   	  4. Durachman M D Tjahyadi (20021106127)
 
-1.Demo Projek UTS
+1.Demo Projek UAS
 Link video		:
 
-2.Hasis Projek UTS
+2.Hasis Projek UAS
 Link Web		: 
 
 Link Git	:
